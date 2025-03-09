@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home-board-title {
+    text-align: center;
+}
+.home-board {
+    background: black;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home-points-text {
+    color: red;
+    text-align: center;
+}
+
+.add-points-btns-home {
+    display: flex;
+    gap: 11px;
+}
+
+.plus-one-point {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.plus-two-point {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.plus-three-point {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.new-game-btn {
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    width: 70%;
+    background: green;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
