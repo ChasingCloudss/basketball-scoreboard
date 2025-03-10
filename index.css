@@ -62,8 +62,7 @@ body {
 }
 .container {
     display: flex;
-    width: 600px;
-    height: 400px;
+    width: 50%;
     margin: auto;
     justify-content: space-around;
 }
