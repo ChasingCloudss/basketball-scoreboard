@@ -62,8 +62,8 @@ body {
 }
 .container {
     display: flex;
-    max-width: 600px;
-    max-height: 400px;
+    width: 600px;
+    height: 400px;
     margin: auto;
     justify-content: space-around;
 }
